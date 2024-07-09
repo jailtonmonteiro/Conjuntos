@@ -12,3 +12,4 @@ E:\Cursos\CSharp\Conjuntos\Conjuntos\obj\Debug\net8.0\refint\Conjuntos.dll
 E:\Cursos\CSharp\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.pdb
 E:\Cursos\CSharp\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.genruntimeconfig.cache
 E:\Cursos\CSharp\Conjuntos\Conjuntos\obj\Debug\net8.0\ref\Conjuntos.dll
+E:\Cursos\CSharp\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.sourcelink.json
